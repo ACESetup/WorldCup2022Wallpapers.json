@@ -1,31 +1,32 @@
 [
     {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/001ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 1",
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%201.png?token=GHSAT0AAAAAABWUX4A3JSAGI6MGOOW4PD4WYXGSFEA",
+  "name": "Argentina Logo 1",
   "author": "Don7TK",
-  "collections": "Retro"
+  "collections": "Team Emblem"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/002ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 2",
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%202.png?token=GHSAT0AAAAAABWUX4A34MTZB7FO5VCKAAZEYXGSGMQ",
+  "name": "Argentina Logo 2",
   "author": "Don7TK",
-  "collections": "Retro"
+  "collections": "Team Emblem"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/002ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 2",
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%203.png?token=GHSAT0AAAAAABWUX4A2QPX5TO77JETLNDZ2YXGSG5A",
+  "name": "Argentina Logo 3",
   "author": "Don7TK",
-  "collections": "Retro"
+  "collections": "Team Emblem"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/002ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 2",
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%204.png?token=GHSAT0AAAAAABWUX4A22SIXUWGCVA3JXDMQYXGSHGA",
+  "name": "Argentina Logo 4",
   "author": "Don7TK",
-  "collections": "Retro"
+  "collections": "Team Emblem"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/002ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 2",
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Argentina%20Logo%205.png?token=GHSAT0AAAAAABWUX4A2Q5VK4QQOE5DIFZRSYXGSHOA",
+  "name": "Argentina Logo 5",
   "author": "Don7TK",
-  "collections": "Retro"
- },
+  "collections": "Team Emblem"
+ }
+]
