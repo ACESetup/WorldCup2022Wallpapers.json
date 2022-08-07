@@ -361,31 +361,61 @@
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Germany%20Logo%201.png",
-  "name": "France Logo 1",
+  "name": "Germany Logo 1",
   "author": "Don7TK",
   "collections": "Team Emblem"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Germany%20Logo%202.png",
-  "name": "France Logo 2",
+  "name": "Germany Logo 2",
   "author": "Don7TK",
   "collections": "Team Emblem"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Germany%20Logo%203.png",
-  "name": "France Logo 3",
+  "name": "Germany Logo 3",
   "author": "Don7TK",
   "collections": "Team Emblem"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Germany%20Logo%204.png",
-  "name": "France Logo 4",
+  "name": "Germany Logo 4",
   "author": "Don7TK",
   "collections": "Team Emblem"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Germany%20Logo%205.png",
-  "name": "France Logo 5",
+  "name": "Germany Logo 5",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Ghana%20Logo%201.png",
+  "name": "Ghana Logo 1",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Ghana%20Logo%202.png",
+  "name": "Ghana Logo 2",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Ghana%20Logo%203.png",
+  "name": "Ghana Logo 3",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Ghana%20Logo%204.png",
+  "name": "Ghana Logo 4",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Ghana%20Logo%205.png",
+  "name": "Ghana Logo 5",
   "author": "Don7TK",
   "collections": "Team Emblem"
  }
