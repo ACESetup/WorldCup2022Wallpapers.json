@@ -871,31 +871,61 @@
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/USA%20Team%20Logo%201.png",
-  "name": "Uruguay Logo 1",
+  "name": "USA Logo 1",
   "author": "Don7TK",
   "collections": "Team Emblem"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/USA%20Team%20Logo%202.png",
-  "name": "Uruguay Logo 2",
+  "name": "USA Logo 2",
   "author": "Don7TK",
   "collections": "Team Emblem"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/USA%20Team%20Logo%203.png",
-  "name": "Uruguay Logo 3",
+  "name": "USA Logo 3",
   "author": "Don7TK",
   "collections": "Team Emblem"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/USA%20Team%20Logo%204.png",
-  "name": "Uruguay Logo 4",
+  "name": "USA Logo 4",
   "author": "Don7TK",
   "collections": "Team Emblem"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/USA%20Team%20Logo%205.png",
-  "name": "Uruguay Logo 5",
+  "name": "USA Logo 5",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Welsh%20Logo%201.png",
+  "name": "Welsh Logo 1",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Welsh%20Logo%202.png",
+  "name": "Welsh Logo 2",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Welsh%20Logo%203.png",
+  "name": "Welsh Logo 3",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Welsh%20Logo%204.png",
+  "name": "Welsh Logo 4",
+  "author": "Don7TK",
+  "collections": "Team Emblem"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/WorldCup2022Wallpapers.json/main/Welsh%20Logo%205.png",
+  "name": "Welsh Logo 5",
   "author": "Don7TK",
   "collections": "Team Emblem"
  }
